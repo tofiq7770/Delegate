@@ -50,6 +50,23 @@ BookDelegate bookDelegate = new BookDelegate();
 // Get the count of books for a specific author
 bookDelegate.Result("Jafar_Jabbarli");
 
-
-
+Features
+BookDelegate
+ShowCountOfBook: Displays the count of books for a selected author.
+Result: Generates and displays the result based on the author's name.
 EmployeeDelegate
+ShowPersons: Displays details of employees based on a given salary predicate.
+Result: Generates and displays the result based on the starting salary of employees.
+Installation
+No special installation is required for this console application. Simply clone the repository and run the application in your preferred C# development environment.
+
+Examples
+Check the provided code and explore the examples in the Program.cs file to understand how to use the BookDelegate and EmployeeDelegate classes.
+
+Contributing
+Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Feel free to adjust the content based on your preferences and additional information you want to include.
