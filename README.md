@@ -7,9 +7,6 @@ Delegate is a simple library in C# that demonstrates the use of the Delegate pat
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Examples](#examples)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
